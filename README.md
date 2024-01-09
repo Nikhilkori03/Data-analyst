@@ -71,7 +71,7 @@ ___
 <table>
 <tr>
 <td>
-     <img src="https://media.licdn.com/dms/image/D4E35AQGLOS-ukElivQ/profile-framedphoto-shrink_400_400/0/1702987944830?e=1705392000&v=beta&t=cgXbdLf6p5e2Cm-di7yyEkvH7it3Ch2nFlg-MYzSWLk" width="180"/>
+     <img src="https://avatars.githubusercontent.com/u/152955475?s=400&u=a4c92fe2b757b82173b9469b771153177034a7ab&v=4" width="180"/>
      
      Nikhilkori03@gmail.com
 
