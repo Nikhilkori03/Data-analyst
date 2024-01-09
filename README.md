@@ -1,6 +1,6 @@
 # Excelr_Data_Analyst_Assignments
 
-## Find all EXCELR Data Analyst Assignment Here
+## All Data Analyst Assignment Here
 
 ### [Excel](https://github.com/Nikhilkori03/Data-analyst/blob/main/Assignment%20Day%201and%202.xlsx)
 
