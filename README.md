@@ -2,7 +2,7 @@
 
 ## All Data Analyst Assignment Here
 
-### [Advance Excel](https://github.com/Nikhilkori03/Data-analyst/blob/main/Assignment%20Day%201and%202.xlsx)
+### [Advance Excel](https://github.com/Nikhilkori03/Advance-Excel)
 ### [Power BI]
 ### [Tableau]
 ### [MySQL]
