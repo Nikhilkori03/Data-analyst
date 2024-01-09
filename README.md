@@ -3,7 +3,7 @@
 ## All Data Analyst Assignment Here
 
 ### [Advance Excel](https://github.com/Nikhilkori03/Advance-Excel)
-### [Power BI](https://github.com/Nikhilkori03/Power BI)
+### [Power BI](https://github.com/Nikhilkori03/Power-BI)
 ### [Tableau](https://github.com/Nikhilkori03/Tableau)
 ### [MySQL](https://github.com/Nikhilkori03/MySQL)
 
