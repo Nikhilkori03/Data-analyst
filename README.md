@@ -2,7 +2,7 @@
 
 ## Find all EXCELR Data Science Assignment Here
 
-### Excel[https://github.com/Nikhilkori03/Data-analyst/blob/main/Assignment%20Day%201and%202.xlsx]
+### [Excel](https://github.com/Nikhilkori03/Data-analyst/blob/main/Assignment%20Day%201and%202.xlsx)
 
 ___
 
