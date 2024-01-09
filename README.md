@@ -1,12 +1,11 @@
-# Excelr_Data_Science_Assignments
+# Excelr_Data_Analyst_Assignments
 
-## Find all EXCELR Data Science Assignment Here
+## Find all EXCELR Data Analyst Assignment Here
 
 ### [Excel](https://github.com/Nikhilkori03/Data-analyst/blob/main/Assignment%20Day%201and%202.xlsx)
 
 ___
 
-## Author
 
 <table>
 <tr>
@@ -22,8 +21,6 @@ ___
 </td>
 </tr> 
   </table>
-
-[Table of Content](#0.1)
 
 <div style="display:fill;
             border-radius: false;
